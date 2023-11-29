@@ -1,6 +1,6 @@
 # Data Munging
 
-Data Munging application finds the smallest temperature spread from the **weather.dat** file and the team's name with the smallest difference in 'for' and 'against' goals from the **football.dat ** file. Files were attached to the Files folder in **DataMunging.Client** Console application
+Data Munging application finds the smallest temperature spread from the **weather.dat** file and the team's name with the smallest difference in 'for' and 'against' goals from the **football.dat** file. Files were attached to the Files folder in **DataMunging.Client** Console application
 
 ## Tech
 
